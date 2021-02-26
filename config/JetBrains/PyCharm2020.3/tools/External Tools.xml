@@ -1,9 +1,0 @@
-<toolSet name="External Tools">
-  <tool name="isort" description="Sort imports in current file" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="$USER_HOME$/.local/share/virtualenvs/computer_aided_tournament_system-CR93f5fz/bin/isort" />
-      <option name="PARAMETERS" value="-e -m 4 -w 79 $FilePath$" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/computer_aided_tournament_system" />
-    </exec>
-  </tool>
-</toolSet>
