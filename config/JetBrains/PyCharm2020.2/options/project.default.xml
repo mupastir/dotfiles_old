@@ -1,0 +1,13 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="GithubDefaultAccount">
+        <option name="defaultAccountId" value="dc71653e-db6f-4742-9e43-ecec7fbf64ff" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/cnxion" />
+        <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

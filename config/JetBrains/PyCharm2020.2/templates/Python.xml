@@ -1,0 +1,7 @@
+<templateSet group="Python">
+  <template name="&lt;pudb&gt;" value="from pudb import set_trace; set_trace()" description="python console debuger" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,33 @@
+2021/02/25-09:01:50.781 70c Reusing MANIFEST /home/oleg/.config/Slack/Local Storage/leveldb/MANIFEST-000001
+2021/02/25-09:01:50.781 70c Recovering log #125
+2021/02/25-09:01:50.781 70c Reusing old log /home/oleg/.config/Slack/Local Storage/leveldb/000125.log 
+2021/02/25-09:51:50.793 2f4d Level-0 table #130: started
+2021/02/25-09:51:50.804 2f4d Level-0 table #130: 12822 bytes OK
+2021/02/25-09:51:50.809 2f4d Delete type=0 #125
+2021/02/25-10:17:50.793 4426 Level-0 table #132: started
+2021/02/25-10:17:50.804 4426 Level-0 table #132: 16381 bytes OK
+2021/02/25-10:17:50.808 4426 Delete type=0 #129
+2021/02/25-12:49:50.796 8bc7 Level-0 table #134: started
+2021/02/25-12:49:50.807 8bc7 Level-0 table #134: 12282 bytes OK
+2021/02/25-12:49:50.811 8bc7 Delete type=0 #131
+2021/02/25-15:38:50.795 a00d Level-0 table #136: started
+2021/02/25-15:38:50.798 a00d Level-0 table #136: 11751 bytes OK
+2021/02/25-15:38:50.802 a00d Delete type=0 #133
+2021/02/25-15:38:50.802 9f32 Compacting 4@0 + 1@1 files
+2021/02/25-15:38:50.805 9f32 Generated table #137@0: 9 keys, 3784 bytes
+2021/02/25-15:38:50.805 9f32 Compacted 4@0 + 1@1 files => 3784 bytes
+2021/02/25-15:38:50.809 9f32 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/02/25-15:38:50.809 9f32 Delete type=2 #127
+2021/02/25-15:38:50.809 9f32 Delete type=2 #134
+2021/02/25-15:38:50.809 9f32 Delete type=2 #136
+2021/02/25-15:38:50.809 9f32 Delete type=2 #130
+2021/02/25-15:38:50.809 9f32 Delete type=2 #132
+2021/02/25-19:13:50.848 c03f Level-0 table #139: started
+2021/02/25-19:13:50.860 c03f Level-0 table #139: 10863 bytes OK
+2021/02/25-19:13:50.864 c03f Delete type=0 #135
+2021/02/26-02:27:50.846 e8d9 Level-0 table #141: started
+2021/02/26-02:27:50.855 e8d9 Level-0 table #141: 7539 bytes OK
+2021/02/26-02:27:50.860 e8d9 Delete type=0 #138
+2021/02/26-09:41:50.787 133d7 Level-0 table #143: started
+2021/02/26-09:41:50.794 133d7 Level-0 table #143: 7551 bytes OK
+2021/02/26-09:41:50.798 133d7 Delete type=0 #140

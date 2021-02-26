@@ -1,0 +1,388 @@
+sudo apt update && sudo apt upgrade
+sudo apt install fish guake
+wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list'
+sudo apt-get update
+sudo apt-get install google-chrome-stable
+sudo add-apt-repository ppa:mystic-mirage/pycharm
+cd Downloads/
+sh jetbrains-toolbox.sh 
+sudo jetbrains-toolbox.sh 
+sudo sh jetbrains-toolbox.sh 
+pycharm.sh
+sh pycharm.sh
+pipenv
+python3 -m pip install pipenv
+python3.7 -m pip install pipenv
+sudo python3.7 -m pip install pipenv
+pipenv
+pipenv --python 3.7
+pipenv shell
+pipenv lock
+python --version
+pipenv install
+pipenv install pytest numpy
+pipenv
+pipenv run pip freeze > requirements.txt
+pytest
+deactivate
+deb http://apt.postgresql.org/pub/repos/apt/ buster-pgdg main
+pipenv install psycopg2-binary
+deac
+deactivate 
+sudo PATH=$PATH:/usr/pgsql-11/bin/
+pipenv install psycopg2-binary
+pipenv install psycopg2-binary~=2.2
+pipenv install psycopg2~=2.2
+pipenv install
+pipenv install psycopg2
+sudo PATH=$PATH:/usr/pgsql-11/bin/
+pipenv install psycopg2~=2.6
+pipenv install psycopg2-binary
+pipenv update
+deactivate
+pre-commit
+4OC
+OC
+shoutdown
+shutdown
+sudo reboot
+cd /
+ls --help
+ls -a -t -T -s -h
+ls -a -t -T -h
+ls -a -t -T
+ls -a -t -h
+ls -a -t -h -s
+ls -a -t -h -s -x
+ls -a -t -h -s -l
+docker ps
+sudo docker ps
+docker run hello-world
+docker ps
+docker run -d -p 5462:5462 rabbitmq
+docker ps
+python
+ls -a
+docker stop $(docker ps -a -q)
+docker rm $(docker ps -a -q)
+docker stop $(docker ps -a -q)
+/home/oleg/Documents/c_practice/practice_array.c
+sudo /home/oleg/Documents/c_practice/practice_array.c
+env sh /tmp/Microsoft-MIEngine-Cmd-4ynnume2.6c2 
+mkdir .dist
+.dist/a.out
+pipenv install ipython
+ipython
+OC
+pipenv
+pipenv --python 3.7
+pre-commit
+pre-commit install
+sudo snap install pre-comit
+sudo snap install pre-commit
+pipenv install pre-commit
+pipenv shell
+pre-commit install
+pipenv install django~=2.2.*
+pipenv install django~=2.2
+django --version
+python -m django --version
+pipenv install "cookiecutter>=1.4.0"
+cookiecutter https://github.com/pydanny/cookiecutter-django
+pipenv 
+pipenv install -r cnxion/requirements/local.txt 
+cd cnxion/
+./manage.py makemigrations
+django-admin createapp root_page
+django createapp root_page
+./manage.py startapp root_page
+flask run
+pipenv install -r requirements.txt 
+pip install -r billing_coding_challenge/requirements.txt 
+pip install flask-restful
+pip install flask_restful
+cd billing_coding_challenge/
+flask run
+export FLASK_APP=att.py
+flask run
+flask db upgrade
+flask db migrate
+flask db upgrade
+flask db migrate
+flask db init
+flask db migrate
+flask db upgrade heads
+flask db upgrade head
+flask db upgrade subscriptions
+flask db upgrade
+flask db init
+flask db migrate
+flask db init
+flask db migrate
+flask db upgrade
+flask db migrate
+flask db upgrade
+flask db downgrade
+flask db upgrade
+flask db init
+flask db migrate
+flask db upgade
+flask db upgrade
+pip install -U pip setuptools
+pip install -r deployment/requirements.txt
+python --version
+pip install -r deployment/requirements.txtre
+pip install -r deployment/requirements.txt
+pip install ansible
+vagrant up
+vagrant init
+vagrant up
+vagrant up --provider=virtualbox
+vagrant --version
+vagrant run
+vagrant up
+vagrant up --provider=VirtualBox
+vagrant up --provider=virtualbox
+vagrant up
+vagrant init
+vagrant up
+vagrant status
+vagrant up
+vagrant halt
+vagrant up
+vagrant ssh
+VAGRANT_LOG=info vagrant up
+vagrant halt
+vagrant up --debug &> vagrant.log
+vagrant hant
+vagrant halt
+vagrant status
+pip install -r deployment/requirements.txt 
+vagrant up
+vagrant halt
+vagrant up
+vagrant --help
+vagrant reload
+vagrant destroy
+vagrant up
+vagrant reload
+vagrant up
+vagrant ssh
+vagrant halt
+vagrant up
+vagrant --help
+vagrant
+vagrant list-commands
+vagrant provision
+vagrant provision --limit @/home/oleg/PycharmProjects/cnxion/deployment/provision_local.retry
+vagrant --limit @/home/oleg/PycharmProjects/cnxion/deployment/provision_local.retry
+vagrant up --limit @/home/oleg/PycharmProjects/cnxion/deployment/provision_local.retry
+vagrant up
+vagrant provision
+ansible all -m ping
+ansible localhost -m ping
+vagrant provision
+vagrant ssh
+vagrant provision
+vagrant ssh-config
+vagrant provision -vvvv
+ansible all -m ping -vvv
+vagrant provision
+ssh-keygen -t rsa
+ssh-copy-id -p 2222 vagrant@127.0.0.1
+vagrant provision
+ansible 127.0 -m ping -vvv
+ansible 127.0.0.1 -m ping -vvv
+vagrant provision
+vagrant restart
+vagrant reload
+ssh-copy-id -p 22 vagrant@127.0.0.1
+ssh-copy-id vagrant@127.0.0.1
+sudo vagrant provision
+vagrant provision
+ansible localhost -m ping -vvv
+vagrant provision
+vagrant ssh-config
+vagrant ssh
+vagrant provision
+ansible 127.0.0.1 -m ping -vvv
+ansible 127.0.0.1 -p 22 -m ping -vvv
+ansible 127.0.0.1:22 -m ping -vvv
+ansible 127.0.0.1:2222 -m ping -vvv
+ansible --help
+ansible --list-hosts 
+ansible all --list-hosts 
+ansible localhost --list-hosts 
+ansible 127. --list-hosts--list-hosts  
+vagrant ssh
+vagrant ssh-config
+ssh -p 2222 vagrant@127.0.0.1
+ssh -p 22 vagrant@127.0.0.1
+ssh vagrant@127.0.0.1
+vagrant reload
+vagrant provision
+ssh vagrant@127.0.0.1
+ssh -p 2222 vagrant@127.0.0.1
+vagrant reload
+ssh -p 2222 vagrant@127.0.0.1
+vagrant ssh
+vagrant provision
+vagrant ssh
+vagrant up
+ansible
+ansible --version
+pip insstall ansible==1.9.5
+pip install ansible==1.9.5
+pip insstall ansible==2.1.1
+pip install ansible==2.1.1
+vagrant up
+vagrant provision
+pip install ansible==2.0.1
+vagrant up
+vagrant provision
+vagrant up
+vagrant reload
+vagrant provision
+vagrant reload
+vagrant provision
+ansible 127.0.0.1 ping -vvvv
+ansible -m 127.0.0.1 ping -vvvv
+ansible -m ping -vvvv 127.0.0.1
+ansible -m ping -vvvv alll
+ansible -m ping -vvvv all
+ansible -m ping -vvvv localhost
+vagrant provision
+vargant ssh
+vagrant ssh
+vargant reload
+vagrant reload
+vagrant ssh
+vagrant ssh --debug
+ssh -p 2222 vagrant@127.0.0.1
+vagrant ssh-config
+vagrant up
+vagrant ssh -i
+vagrant ssh
+vagrant reload -i
+vagrant halt
+vagrant up -i
+vagrant province -i
+vagrant provision -i
+vagrant provision
+vagrant provision default
+vagrant reload
+vagrant provision
+vagrant reload
+vagrant provision
+vagrant reload
+vagrant provision
+vagrant halt
+vagrant up
+vagrant provision
+vagrant destroy
+vagrant halt
+vagrant 
+vagrant up
+vagrant halt
+vagrant reload
+vagrant destroy
+vagrant halt
+vagrant up
+vagrant provision
+vagrant up
+ssh-copy-id default
+ssh-copy-id vagrant@default
+vagrant ssh-config
+ssh-copy-id 127.0.0.1
+ssh-copy-id 127.0.0.1:2222
+ssh-copy-id -p 2222 127.0.0.1
+ssh-copy-id '-p 2222 -i ~/.ssh/id_dsa  vagrant@127.0.0.1'
+ssh-copy-id -p 2222 -i ~/.ssh/id_dsa  vagrant@127.0.0.1
+ssh-copy-id -p 2222 -i ~/.ssh/id_rsa  vagrant@127.0.0.1
+vagrant ssh
+vagrant ssh --debug
+vagrant up
+vagrant provision
+vagrant ssh
+ansible --version
+vagrant ssh
+curl: (7) Failed to connect to localhost port 9200: Connection refused
+curl -XGET 'localhost:9200'
+vagrant ssh
+vagrant halt
+vagrant up
+vagrant provision
+vagrant ssh
+vagrant provision
+vagrant ssh
+vagrant halt
+vagrant up
+vagrant provision
+vagrant ssh
+vagrant provision
+vagrant ssh
+vagrant up
+vagrant ssh
+vagarnt halt
+vagrant halt
+vagrant sssh
+vagrant ssh
+vagrant up
+vagrant provision
+vagrant ssh
+vagrant provision
+vagrant ssh
+ansible-vault decrypt /home/oleg/PycharmProjects/cnxion/deployment/env_vars/base_vault.yml
+ansible-vault encrypt /home/oleg/PycharmProjects/cnxion/deployment/env_vars/base_vault.yml
+vagrant provision
+vagrant halt
+vagrant up
+vagrant provision
+vagrant ssh
+vagrant halt
+vagrant up
+vagrant provision
+vagrant ssh
+ansible-vault encrypt /home/oleg/PycharmProjects/cnxion/deployment/env_vars/base_vault.yml
+vagrant reprovision
+vagrant provision
+ansible-vault decrypt /home/oleg/PycharmProjects/cnxion/deployment/env_vars/base_vault.yml
+ansible-vault encrypt /home/oleg/PycharmProjects/cnxion/deployment/env_vars/base_vault.yml
+vagrant provision
+vagrant ssh
+ansible-vault edit /home/oleg/PycharmProjects/cnxion/deployment/env_vars/base_vault.yml
+env
+env | grep WEBPLATE
+env
+vagrant ssh
+vagrant halt
+vagrant
+vagrant destroy
+vagrant up
+vagrant provision
+vagrant ssh
+vagrant provision
+vagrant ssh
+vagrant provision
+vagrant ssh
+source venv/bin/activate
+vagrant ssh
+vagrant up
+vagrant provision
+vagrant ssh
+vagrant provision
+vagrant ssh
+source venv/bin/activate
+pip install -r deployment/requirements.txt
+vagrant provision
+vagrant ssh
+vagrant provision
+vagrant ssh
+pip install -r deployment/requirements.txt
+vagrant ssh
+vagrant halt
+vagrant up
+vagrant ssh
+vagrant provision
+vagrant ssh

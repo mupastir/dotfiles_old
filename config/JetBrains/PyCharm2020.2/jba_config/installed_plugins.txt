@@ -1,0 +1,18 @@
+com.alayouni.ansiHighlight
+com.intellij.ideolog
+com.ppolivka.gitlabprojects
+com.thvardhan.gradianto
+com.tylerthrailkill.intellij.solarized
+name.kropp.intellij.makefile
+com.jetbrains.intellij.datalore
+com.chrisrm.idea.MaterialThemeUI
+com.mallowigi
+IdeaVIM
+zielu.gittoolbox
+com.berzanmikaili.intellij.monokai_pro
+color.scheme.Monokai Materialized
+monokai-pro
+net.ashald.envfile
+ru.adelf.idea.dotenv
+ru.meanmail.plugin.requirements
+cn.jxzhang.plugin.json-formatter

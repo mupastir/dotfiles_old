@@ -1,0 +1,807 @@
+sudo apt update && sudo apt upgrade
+sudo apt install fish guake
+wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list'
+sudo apt-get update
+sudo apt-get install google-chrome-stable
+sudo add-apt-repository ppa:mystic-mirage/pycharm
+cd Downloads/
+sh jetbrains-toolbox.sh 
+sudo jetbrains-toolbox.sh 
+sudo sh jetbrains-toolbox.sh 
+pycharm.sh
+sh pycharm.sh
+pipenv
+python3 -m pip install pipenv
+python3.7 -m pip install pipenv
+sudo python3.7 -m pip install pipenv
+pipenv
+pipenv --python 3.7
+pipenv shell
+pipenv lock
+python --version
+pipenv install
+pipenv install pytest numpy
+pipenv
+pipenv run pip freeze > requirements.txt
+pytest
+deactivate
+deb http://apt.postgresql.org/pub/repos/apt/ buster-pgdg main
+pipenv install psycopg2-binary
+deac
+deactivate 
+sudo PATH=$PATH:/usr/pgsql-11/bin/
+pipenv install psycopg2-binary
+pipenv install psycopg2-binary~=2.2
+pipenv install psycopg2~=2.2
+pipenv install
+pipenv install psycopg2
+sudo PATH=$PATH:/usr/pgsql-11/bin/
+pipenv install psycopg2~=2.6
+pipenv install psycopg2-binary
+pipenv update
+deactivate
+pre-commit
+4OC
+OC
+shoutdown
+shutdown
+sudo reboot
+cd /
+ls --help
+ls -a -t -T -s -h
+ls -a -t -T -h
+ls -a -t -T
+ls -a -t -h
+ls -a -t -h -s
+ls -a -t -h -s -x
+ls -a -t -h -s -l
+docker ps
+sudo docker ps
+docker run hello-world
+docker ps
+docker run -d -p 5462:5462 rabbitmq
+docker ps
+python
+ls -a
+docker stop $(docker ps -a -q)
+docker rm $(docker ps -a -q)
+docker stop $(docker ps -a -q)
+/home/oleg/Documents/c_practice/practice_array.c
+sudo /home/oleg/Documents/c_practice/practice_array.c
+env sh /tmp/Microsoft-MIEngine-Cmd-4ynnume2.6c2 
+mkdir .dist
+.dist/a.out
+pipenv install ipython
+ipython
+OC
+pipenv
+pipenv --python 3.7
+pre-commit
+pre-commit install
+sudo snap install pre-comit
+sudo snap install pre-commit
+pipenv install pre-commit
+pipenv shell
+pre-commit install
+pipenv install django~=2.2.*
+pipenv install django~=2.2
+django --version
+python -m django --version
+pipenv install "cookiecutter>=1.4.0"
+cookiecutter https://github.com/pydanny/cookiecutter-django
+pipenv 
+pipenv install -r cnxion/requirements/local.txt 
+cd cnxion/
+./manage.py makemigrations
+django-admin createapp root_page
+django createapp root_page
+./manage.py startapp root_page
+flask run
+pipenv install -r requirements.txt 
+pip install -r billing_coding_challenge/requirements.txt 
+pip install flask-restful
+pip install flask_restful
+cd billing_coding_challenge/
+flask run
+export FLASK_APP=att.py
+flask run
+flask db upgrade
+flask db migrate
+flask db upgrade
+flask db migrate
+flask db init
+flask db migrate
+flask db upgrade heads
+flask db upgrade head
+flask db upgrade subscriptions
+flask db upgrade
+flask db init
+flask db migrate
+flask db init
+flask db migrate
+flask db upgrade
+flask db migrate
+flask db upgrade
+flask db downgrade
+flask db upgrade
+flask db init
+flask db migrate
+flask db upgade
+flask db upgrade
+pip install -U pip setuptools
+pip install -r deployment/requirements.txt
+python --version
+pip install -r deployment/requirements.txtre
+pip install -r deployment/requirements.txt
+pip install ansible
+vagrant up
+vagrant init
+vagrant up
+vagrant up --provider=virtualbox
+vagrant --version
+vagrant run
+vagrant up
+vagrant up --provider=VirtualBox
+vagrant up --provider=virtualbox
+vagrant up
+vagrant init
+vagrant up
+vagrant status
+vagrant up
+vagrant halt
+vagrant up
+vagrant ssh
+VAGRANT_LOG=info vagrant up
+vagrant halt
+vagrant up --debug &> vagrant.log
+vagrant hant
+vagrant halt
+vagrant status
+sudo apt install libqt5*
+source /home/oleg/Downloads/VirtualBox-5.1.34/env.sh
+kmk
+cd Downloads/VirtualBox-5.1.34/
+kmk
+cd ./out/linux.amd64/release/bin/src
+cd out/linux.amd64/release/bin/src
+ls
+cd out/linux.amd64/release/bin
+ls
+cd components/
+ls
+cd..
+cd ..
+ls-a
+ls -a
+cd sdk/
+ls
+cd bindings/
+ls
+cd ..
+la -a
+cd ..
+ls -a
+cd ..
+cd src/
+kmk
+cd ..
+cd VirtualBox-5.1.34/
+kmk
+ssh-add ~/.ssh/id_rsa
+exit
+sudo apt remove virtualbox-5.2 
+sudo apt install virtualbox-5.1
+pip install -r deployment/requirements.txt 
+vagrant up
+vagrant halt
+vagrant up
+vagrant --help
+vagrant reload
+vagrant destroy
+vagrant up
+vagrant reload
+vagrant up
+vagrant ssh
+vagrant halt
+vagrant up
+vagrant --help
+vagrant
+vagrant list-commands
+vagrant provision
+vagrant provision --limit @/home/oleg/PycharmProjects/cnxion/deployment/provision_local.retry
+vagrant --limit @/home/oleg/PycharmProjects/cnxion/deployment/provision_local.retry
+vagrant up --limit @/home/oleg/PycharmProjects/cnxion/deployment/provision_local.retry
+vagrant up
+vagrant provision
+ansible all -m ping
+ansible localhost -m ping
+vagrant provision
+vagrant ssh
+vagrant provision
+vagrant ssh-config
+vagrant provision -vvvv
+ansible all -m ping -vvv
+vagrant provision
+ssh-keygen -t rsa
+ssh-copy-id -p 2222 vagrant@127.0.0.1
+vagrant provision
+ansible 127.0 -m ping -vvv
+ansible 127.0.0.1 -m ping -vvv
+vagrant provision
+vagrant restart
+vagrant reload
+ssh-copy-id -p 22 vagrant@127.0.0.1
+ssh-copy-id vagrant@127.0.0.1
+sudo vagrant provision
+vagrant provision
+ansible localhost -m ping -vvv
+vagrant provision
+vagrant ssh-config
+vagrant ssh
+vagrant provision
+ansible 127.0.0.1 -m ping -vvv
+ansible 127.0.0.1 -p 22 -m ping -vvv
+ansible 127.0.0.1:22 -m ping -vvv
+ansible 127.0.0.1:2222 -m ping -vvv
+ansible --help
+ansible --list-hosts 
+ansible all --list-hosts 
+ansible localhost --list-hosts 
+ansible 127. --list-hosts--list-hosts  
+vagrant ssh
+vagrant ssh-config
+ssh -p 2222 vagrant@127.0.0.1
+ssh -p 22 vagrant@127.0.0.1
+ssh vagrant@127.0.0.1
+vagrant reload
+vagrant provision
+ssh vagrant@127.0.0.1
+ssh -p 2222 vagrant@127.0.0.1
+vagrant reload
+ssh -p 2222 vagrant@127.0.0.1
+vagrant ssh
+vagrant provision
+vagrant ssh
+vagrant up
+ansible
+ansible --version
+pip insstall ansible==1.9.5
+pip install ansible==1.9.5
+pip insstall ansible==2.1.1
+pip install ansible==2.1.1
+vagrant up
+vagrant provision
+pip install ansible==2.0.1
+vagrant up
+vagrant provision
+vagrant up
+vagrant reload
+vagrant provision
+vagrant reload
+vagrant provision
+ansible 127.0.0.1 ping -vvvv
+ansible -m 127.0.0.1 ping -vvvv
+ansible -m ping -vvvv 127.0.0.1
+ansible -m ping -vvvv alll
+ansible -m ping -vvvv all
+ansible -m ping -vvvv localhost
+vagrant provision
+vargant ssh
+vagrant ssh
+vargant reload
+vagrant reload
+vagrant ssh
+vagrant ssh --debug
+ssh -p 2222 vagrant@127.0.0.1
+vagrant ssh-config
+vagrant up
+vagrant ssh -i
+vagrant ssh
+vagrant reload -i
+vagrant halt
+vagrant up -i
+vagrant province -i
+vagrant provision -i
+vagrant provision
+vagrant provision default
+vagrant reload
+vagrant provision
+vagrant reload
+vagrant provision
+vagrant reload
+vagrant provision
+vagrant halt
+vagrant up
+vagrant provision
+vagrant destroy
+vagrant halt
+vagrant 
+vagrant up
+vagrant halt
+vagrant reload
+vagrant destroy
+vagrant halt
+vagrant up
+vagrant provision
+vagrant up
+ssh-copy-id default
+ssh-copy-id vagrant@default
+vagrant ssh-config
+ssh-copy-id 127.0.0.1
+ssh-copy-id 127.0.0.1:2222
+ssh-copy-id -p 2222 127.0.0.1
+ssh-copy-id '-p 2222 -i ~/.ssh/id_dsa  vagrant@127.0.0.1'
+ssh-copy-id -p 2222 -i ~/.ssh/id_dsa  vagrant@127.0.0.1
+ssh-copy-id -p 2222 -i ~/.ssh/id_rsa  vagrant@127.0.0.1
+vagrant ssh
+vagrant ssh --debug
+cd ~/.ssh
+ssh-keygen -t rsa
+ls
+vagrant up
+vagrant provision
+vagrant ssh
+ansible --version
+vagrant ssh
+curl: (7) Failed to connect to localhost port 9200: Connection refused
+curl -XGET 'localhost:9200'
+vagrant ssh
+vagrant halt
+vagrant up
+vagrant provision
+vagrant ssh
+vagrant provision
+vagrant ssh
+vagrant halt
+http://madlymaldives.local.wearecnxion.com:8901/
+wget http://madlymaldives.local.wearecnxion.com:8901/
+vagrant ssh
+vagrant up
+vagrant ssh
+vagarnt halt
+vagrant halt
+sudo docker inspect -f "{{ .NetworkSettings.IPAddress }}" aidedtournamentsystem_web
+cd aided_tournament_system/
+./manage.py test
+python3 -m venv venv
+source venv/bin/activate
+pip install -U pip
+pip install -U setuptools
+pip install -U deployment/requirements.txt 
+pip install -r deployment/requirements.txt 
+vagrant sssh
+vagrant ssh
+vagrant up
+vagrant provision
+vagrant ssh
+vagrant provision
+vagrant ssh
+ansible-vault decrypt /home/oleg/PycharmProjects/cnxion/deployment/env_vars/base_vault.yml
+ansible-vault encrypt /home/oleg/PycharmProjects/cnxion/deployment/env_vars/base_vault.yml
+vagrant provision
+vagrant halt
+vagrant up
+vagrant provision
+vagrant ssh
+vagrant halt
+vagrant up
+vagrant provision
+vagrant ssh
+ansible-vault encrypt /home/oleg/PycharmProjects/cnxion/deployment/env_vars/base_vault.yml
+vagrant reprovision
+vagrant provision
+ansible-vault decrypt /home/oleg/PycharmProjects/cnxion/deployment/env_vars/base_vault.yml
+ansible-vault encrypt /home/oleg/PycharmProjects/cnxion/deployment/env_vars/base_vault.yml
+vagrant provision
+vagrant ssh
+ansible-vault edit /home/oleg/PycharmProjects/cnxion/deployment/env_vars/base_vault.yml
+env
+env | grep WEBPLATE
+env
+vagrant ssh
+vagrant halt
+vagrant
+vagrant destroy
+vagrant up
+vagrant provision
+vagrant ssh
+vagrant provision
+vagrant ssh
+vagrant provision
+vagrant ssh
+source venv/bin/activate
+vagrant ssh
+vagrant up
+vagrant provision
+vagrant ssh
+vagrant provision
+vagrant ssh
+source venv/bin/activate
+pip install -r deployment/requirements.txt
+vagrant provision
+vagrant ssh
+vagrant provision
+vagrant ssh
+pip install -r deployment/requirements.txt
+vagrant ssh
+vagrant halt
+vagrant up
+vagrant ssh
+vagrant provision
+vagrant ssh
+source venv/bin/activate
+pip insstall -r deployment/requirements.txt 
+pip install -r deployment/requirements.txt 
+deactivate
+sudo rm -rf venv/
+python2 --version
+python2 -m venv venv
+virtualenv --no-site-packages venv
+source venv/bin/activate
+pip install -U pip setuptools
+pip install -r deployment/requirements.txt
+vagrant provision
+vagrant up
+exit
+curl -X POST -F file=@madlymaldives.config.extracted.ru.xliff -F overwrite=1 -F method="replace" -H "Authorization: Token dmiPURgJZmo8wOaQBjxYrIW5MOA6OMtYYbMnwdKr" https://translations.wearecnxion.com/api/translations/madly-maldives/config/ru/file
+curl -X POST -F file=@madlymaldives.config.extracted.ru.xliff -F overwrite=True -F method="replace" -H "Authorization: Token dmiPURgJZmo8wOaQBjxYrIW5MOA6OMtYYbMnwdKr" https://translations.wearecnxion.com/api/translations/madly-maldives/config/ru/file
+cd PycharmProjects/playground/
+curl -X POST -F file=@madlymaldives.config.extracted.ru.xliff -F overwrite=True -F method="replace" -H "Authorization: Token dmiPURgJZmo8wOaQBjxYrIW5MOA6OMtYYbMnwdKr" https://translations.wearecnxion.com/api/translations/madly-maldives/config/ru/file
+curl -X POST -F file=@madlymaldives.config.extracted.ru.xliff -F overwrite=True -F method="translate" -H "Authorization: Token dmiPURgJZmo8wOaQBjxYrIW5MOA6OMtYYbMnwdKr" https://translations.wearecnxion.com/api/translations/madly-maldives/config/ru/file
+git revert 72d484f572d0e6d1e02e9786da64485a86e2d620
+curl -X POST
+curl -X POST 
+curl -X POST -F file=madlymaldives.config.extracted.ru.xliff -F overwrite=1 -F method="replace" -H "Authorization: Token dmiPURgJZmo8wOaQBjxYrIW5MOA6OMtYYbMnwdKr" https://translations.wearecnxion.com/api/translations/madly-maldives/config/ru/file
+curl -X POST -F file=@madlymaldives.config.extracted.ru.xliff -F overwrite=1 -F method="replace" -H "Authorization: Token dmiPURgJZmo8wOaQBjxYrIW5MOA6OMtYYbMnwdKr" https://translations.wearecnxion.com/api/translations/madly-maldives/config/ru/file
+pipenv install django=2.2.9
+pipenv install django==2.2.9
+vagant ssh
+vagrant ssh
+netctl
+hostname -i
+python -m server
+python -m SimpleHTTPServer 8000
+python -m http.server
+python -m SimpleHTTPServer 8000
+cd ..
+python -m SimpleHTTPServer 8080
+htop
+ssh -T git@gitlab.huntedhive.com
+git status
+vagrant ssh
+vagrant halt
+vagrant up
+cd backend/cnxion/
+ls
+cd features/frontend_djb4/
+cd frontend/templates/
+python
+ipython
+cd ..
+git log
+git remote update
+git checkout -b origin/feature/multilingual-#832-translate-django-model-objects
+git status
+git diff show
+git show diff
+git show
+vagrant ssh
+git show
+git branch -r
+git checkout -b feature/808-python3 origin/feature/808-python3
+vagrant up
+vagrant halt
+vagrant up
+vagrant provision
+vagrant ssh
+vagrant destroy
+vagrant up
+vagrant halt
+git show
+git branch -a
+git checkout -b feature/multilingual-#832-translate-django-model-objects origin/feature/multilingual-#832-translate-django-model-objects
+git stash
+git checkout -b feature/multilingual-#832-translate-django-model-objects origin/feature/multilingual-#832-translate-django-model-objects
+git checkout -b origin/feature/multilingual-#832-translate-django-model-objects origin/feature/multilingual-#832-translate-django-model-objects
+git checkout origin/feature/multilingual-#832-translate-django-model-objects 
+venv/bin/activate
+sudo venv/bin/activate
+vagrant up
+vagrant ssh
+vagrant halt
+vagrant help
+vagrant destroy
+vagrant up
+. venv/bin/activate
+vagrant ssh
+vagrant provision
+vagrant ssh
+vagrant provision
+vagrant ssh
+vagrant provision
+vagrant ssh
+git status
+git push
+git push --set-upstream origin feature/multilingual-extract-data-to-translate-merging-with-translated-data
+git pull
+git push --set-upstream origin feature/multilingual-extract-data-to-translate-merging-with-translated-data
+git push --set-upstream origin origin/feature/multilingual-extract-data-to-translate-merging-with-translated-data
+git push --set-upstream origin feature/multilingual-extract-data-to-translate-merging-with-translated-data
+git pull
+git fetcg
+git fetch
+git push origin feature/multilingual-extract-data-to-translate-merging-with-translated-data
+git pull
+git reset --soft HEAD~1
+git branch --set-upstream-to=origin/feature/multilingual-extract-data-to-translate-merging-with-translated-data feature/multilingual-extract-data-to-translate-merging-with-translated-data
+vagrant halt
+pipenv install django==2.2.9
+pipenv lock
+pipenv
+pipenv run pip freeze
+vagrant up
+git add -p
+git status
+git add backend/cnxion/features/multilingual/management/commands/merge_extracted_data.py -p
+git commit -m "Refactored typo variable to 'conflict'"
+git push
+git add backend/cnxion/features/multilingual/management/commands/merge_extracted_data.py -p
+git commit -m "Edited merger outputs"
+git push
+git status
+git add -p
+git status
+git commit -m "Move test_tags to tenant madlymaldives"
+git push
+git status
+git add backend/cnxion/tenants/madlymaldives/data/initial/data_loaders.py
+git commit -m "Remove key translations"
+git push
+git fetch
+git checkout feature/multilingual-extract-data-to-translate-merging-with-translated-data 
+git pull
+git status
+git push
+git status
+git add backend/cnxion/core/config_api/features/i18n/base.py
+git commit -m "Remove default value in validation"
+git push
+git add /home/oleg/PycharmProjects/cnxion/backend/cnxion/tenants/madlymaldives/data/initial/data_loaders.py
+git commit -m "Revert profile translations"
+git push
+git status
+git add backend/cnxion/tenants/madlymaldives/data/initial/data_loaders.py
+git push
+git add backend/cnxion/tenants/madlymaldives/data/initial/data_loaders.py
+git status
+git add backend/cnxion/features/frontend_djb4/frontend/templates/search/fields/select.html backend/cnxion/features/frontend_djb4/frontend/templates/search/search-jumbotron.html backend/cnxion/features/frontend_djb4/frontend/templates/search/search-jumbotron__single_term.html backend/cnxion/features/themes_djb4/themes/matching/frontend/templates/dynamic_models/detail-3-column.html backend/cnxion/features/themes_djb4/themes/matching/frontend/templates/search/search-functions.html backend/cnxion/features/themes_djb4/themes/matching/frontend/templates/widgets/swiped-list.html backend/cnxion/tenants/madlymaldives/data/initial/data_loaders.py
+git commit -m "Update translated fields from config without Filter sections"
+git push
+fil
+python3
+OB
+vagrant up
+git reset
+vagrant ssj
+vagrant ssh
+git merge master
+git stash
+git merge master
+vagrant ssh
+git status
+git add backend/cnxion/features/multilingual/utils.py
+git commit -m "Merge from master"
+git push
+git status
+git add backend/cnxion/features/content/migrations/0020_auto_20200217_1024.py
+git add backend/cnxion/features/content/migrations/0021_auto_20200217_1044.py
+git add backend/cnxion/features/content/translation.py
+git commit -m "WIP: update multilingual of content feature"
+git push
+git status
+git status Vagrantfile
+git add Vagrantfile
+git commit -m "Revert Vagrant file"
+git push
+git stash
+git unstash --Head
+git reset ~Head
+git reset --Head
+git reset --soft ~Head
+git reset --soft ~HEAD
+git reset --soft 
+git status
+git pull
+git checkout -b feature/multilingual-translate-django-models --track origin/feature/multilingual-translate-django-models
+git status
+git push
+vagrant provision
+vagrant ssh
+git status
+git add backend/requirements/base.txt backend/settings/base.py
+git commit -m "Install module django-modeltranslation"
+git push
+vagrant provision
+vagrant halt
+vagrant up
+git status
+git add backend/cnxion/features/multilingual/extractors.py
+git commit -m "Update regex"
+git push
+git pull
+git checkout - b feature/multilingual-fix-dynamic-models-extractor --track origin/feature/multilingual-fix-dynamic-models-extractor
+git checkout -b feature/multilingual-fix-dynamic-models-extractor --track origin/feature/multilingual-fix-dynamic-models-extractor
+git status
+backend/cnxion/features/multilingual/parsers.py
+git add backend/cnxion/features/multilingual/parsers.py
+git commit -m "Add to the header of extracted file info about XML version"
+git push
+git add 
+git status
+git commit -m "Remove backup files"
+git push
+git commit -m "Add back extracted data"
+git push
+git add Vagrant
+git status
+git add Vagrantfile
+git commit -m "Revert Vagrantfile"
+git push
+git checkout -b feature/multilingual-fix-merge-existing-strings --track origin/feature/multilingual-fix-merge-existing-strings
+git branch -s
+git branch -a
+git checkout -b feature/multilingual-fix-merge-existing-strings --track origin/feature/multilingual-fix-merge-existing-strings
+git pull
+git checkout -b feature/multilingual-fix-merge-existing-strings --track origin/feature/multilingual-fix-merge-existing-strings
+git pull
+cd backend/cnxion/tenants/madlymaldives/translations/extracted/
+python
+cd ~/PycharmProjects/cnxion
+vagrant ssh
+git pull
+python manage.py makemigrations --merge
+cd aided_tournament_system/
+python manage.py makemigrations --merge
+vagrant ssh
+which python
+python -v
+hostname -i
+hostname -I
+sudo htop
+git stash
+cookiecutter https://github.com/pydanny/cookiecutter-django
+git add .
+pipenv
+pipenv install -r requirements/base.txt --base
+pipenv install -r requirements/base.txt
+pipenv install -r requirements/local.txt --local
+pipenv install -r requirements/local.txt --dev
+pipenv install -r requirements/prod.txt --prod
+pipenv install -r requirements/production.txt --prod
+pipenv
+pipenv install -r requirements/production.txt
+pre-commit
+pre-commit --help
+pre-commit install
+pre-commit install --install-hooks
+./manage.py createsuperuser
+vagrant provision
+vagrant halt
+vagrant up
+vagrant provision
+vagrant ssh
+cd PycharmProjects/individual-growth-plan/
+sh utility/install_os_dependencies.sh 
+.utility/install_os_dependencies.sh
+utility/install_os_dependencies.sh
+utility/install_os_dependencies.sh install
+python --version
+sudo ms
+sudo mc
+pipenv install --dev
+django-admin startapp headers_stats /home/oleg/PycharmProjects/django-middlewares/learning_django/headers_stats
+django-admin makemigrations
+cd ..
+ld
+ls
+cd django-middlewares/
+django-admin makemigrations
+./manage.py makemigrations
+docker ps
+./manage.py makemigrations --help
+./manage.py makemigrations header_stats
+./manage.py makemigrations headers_stats
+sudo mc
+docker-compose ps
+docker ps
+docker exec -it 723401e4afed /bin/bash
+venv/bin/ansible
+vagrant sssh
+vagrant ssh
+vagrant --help
+vagrant provision
+vagrant ssh
+vagrant halt
+vagrant up
+vagrant destroy
+vagrant up
+vagrant ssh
+vagrant --provision
+vagrant provision
+vagrant ssh
+ls
+source venv/bin/activate
+exit
+sudo apt update&& upgrade
+sudo apt update & upgrade
+jobs
+kill 1
+sudo kill 1
+jobs
+fg
+cd /home/oleg/PycharmProjects/cnxion/backend/cnxion/features/themes_djb4/themes/matching/frontend/templates/reference-templates/cards
+ls
+sudo mc
+cd ~/PycharmProjects/cnxion
+git checkout master -- ~/PycharmProjects/cnxion/backend/cnxion/features/themes_djb4/themes/matching/frontend/templates/cards/list/list-product.html
+dropdb test_learning_django
+ls
+git --h
+git --help
+git status
+git pull
+ssh-keygen -t rsa -b 2048 -C "operlovskiy13@gmail.com"
+xclip -sel clip < ~/.ssh/id_ed25519.pub
+xclip -sel clip < ~/.ssh/id_rsa.pub 
+git pull
+ssh -T git@gitlab.huntedhive.com
+git remote --help
+git remote get-url
+git remote get-url --all
+git pull
+git remote get-url origin
+git remote set-url origin git@167.99.35.140:cnxion/cnxion.git
+git pull
+vagrant destroy
+make init
+vagrant destroy
+ls
+rm -rf venv/
+python3.6 -m venv venv
+ls
+source venv/bin/activate
+pip install -r deployment/requirements.txt 
+vagrant up --provision
+vagrant ssh
+vagrant provision
+vagrant halt
+vagrant up --provision
+vagrant ssh
+vagrant up --provision
+vagrant ssh
+python
+vagrant ssh
+vagrant up --provision
+vagrant ssh
+vagrant --provision
+vagrant provision
+vagrant ssh
+vagrant up --provision
+vagrant ssh
+vagrant halt
+vagrant up --provision
+vagrant ssh
+vagrant destroy
+vagrant up --provision
+vagrant ssh
+vagrant provision
+vagrant ssh
+vagrant provision
+vagrant ssh
+vagrant provision
+vagrant ssh
+make init 
+vagrant up
+vagrant ssh
+make init 

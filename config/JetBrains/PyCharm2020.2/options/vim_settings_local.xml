@@ -1,0 +1,35 @@
+<application>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/curated/main/views/client/api.py" timestamp="1606919678890">
+        <mark key="[" line="176" column="7" />
+        <mark key="]" line="176" column="7" />
+        <mark key="." line="176" column="7" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/curated/main/urls.py" timestamp="1606918099662">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+    </filemarks>
+    <jumps />
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICBpbXBvcnQgaXBkYgogICAgaXBkYi5zZXRfdHJhY2UoKQ==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICBpbXBvcnQgaXBkYgogICAgaXBkYi5zZXRfdHJhY2UoKQ==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+</application>

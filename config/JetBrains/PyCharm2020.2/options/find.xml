@@ -1,0 +1,38 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
+    <mask>'offer_uid': 1</mask>
+    <mask>detail-3-column.html</mask>
+    <mask>*.md</mask>
+    <mask>offer_form.html</mask>
+    <mask>sidebar.html</mask>
+    <mask>profile-sidebar-right.html</mask>
+    <mask>forms.py</mask>
+    <mask>profile-table-view.html</mask>
+    <mask>profile-view-base.html</mask>
+    <mask>string.html</mask>
+    <mask>load_tenant.py</mask>
+    <mask>profile-view.html</mask>
+    <mask>offer-detail-sparse-content.html</mask>
+    <mask>profile-reviews-tabs.html</mask>
+    <mask>fields-list.html</mask>
+    <mask>detail</mask>
+    <mask>list-product.html</mask>
+    <mask>gulpfile.js</mask>
+    <mask>cnxion_tags.py</mask>
+    <mask>models.py</mask>
+    <mask>javascript-extra.html</mask>
+    <mask>profile-view-list-items.html</mask>
+    <mask>searchresult-item-tile-pretty.html</mask>
+    <mask>searchresult-item-tile-small.html</mask>
+    <mask>swiped-list.html</mask>
+    <mask>admin.py</mask>
+    <mask>business_logic.py</mask>
+    <mask>*.html</mask>
+    <mask>data_loaders.py</mask>
+    <mask>*.py</mask>
+  </component>
+</application>

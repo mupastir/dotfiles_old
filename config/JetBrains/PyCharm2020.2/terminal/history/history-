@@ -1,0 +1,22 @@
+sudo apt update && sudo apt upgrade
+sudo apt install fish guake
+wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list'
+sudo apt-get update
+sudo apt-get install google-chrome-stable
+sudo add-apt-repository ppa:mystic-mirage/pycharm
+cd Downloads/
+sh jetbrains-toolbox.sh 
+sudo jetbrains-toolbox.sh 
+sudo sh jetbrains-toolbox.sh 
+pycharm.sh
+sh pycharm.sh
+pipenv
+python3 -m pip install pipenv
+python3.7 -m pip install pipenv
+sudo python3.7 -m pip install pipenv
+pipenv
+pipenv --python 3.7
+pipenv shell
+pytest
+deactivate

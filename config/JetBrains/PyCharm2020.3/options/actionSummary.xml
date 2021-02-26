@@ -1,0 +1,241 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$SelectAll">
+      <i c="4" l="1614092153855" />
+    </e>
+    <e n="$Undo">
+      <i c="9" l="1614000481317" />
+    </e>
+    <e n="About">
+      <i c="2" l="1614152244020" />
+    </e>
+    <e n="Annotate">
+      <i c="4" l="1613983883618" />
+    </e>
+    <e n="CheckinProject">
+      <i c="14" l="1614094022487" />
+    </e>
+    <e n="CodeCompletion">
+      <i c="23" l="1613989394913" />
+    </e>
+    <e n="CollapseAllRegions">
+      <i c="1" l="1613979373756" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="1" l="1614153304091" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="312" l="1614239205067" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="160" l="1614241253038" />
+    </e>
+    <e n="EditorCopy">
+      <i c="64" l="1614239169610" />
+    </e>
+    <e n="EditorCut">
+      <i c="4" l="1614092897101" />
+    </e>
+    <e n="EditorDelete">
+      <i c="105" l="1614239202995" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="11" l="1614093262521" />
+    </e>
+    <e n="EditorDown">
+      <i c="387" l="1614243460783" />
+    </e>
+    <e n="EditorDownWithSelection">
+      <i c="7" l="1613986739756" />
+    </e>
+    <e n="EditorEnter">
+      <i c="112" l="1614093288727" />
+    </e>
+    <e n="EditorEscape">
+      <i c="15" l="1614239195137" />
+    </e>
+    <e n="EditorIndentSelection">
+      <i c="1" l="1613980490976" />
+    </e>
+    <e n="EditorLeft">
+      <i c="200" l="1614239196378" />
+    </e>
+    <e n="EditorLeftWithSelection">
+      <i c="3" l="1614093417752" />
+    </e>
+    <e n="EditorLineEnd">
+      <i c="122" l="1614094024400" />
+    </e>
+    <e n="EditorLineEndWithSelection">
+      <i c="18" l="1614094025519" />
+    </e>
+    <e n="EditorLineStart">
+      <i c="20" l="1614239175879" />
+    </e>
+    <e n="EditorLineStartWithSelection">
+      <i c="12" l="1614093159050" />
+    </e>
+    <e n="EditorMoveToPageBottom">
+      <i c="1" l="1614093660934" />
+    </e>
+    <e n="EditorMoveToPageTop">
+      <i c="1" l="1614093813121" />
+    </e>
+    <e n="EditorNextWord">
+      <i c="59" l="1614093339383" />
+    </e>
+    <e n="EditorNextWordInDifferentHumpsMode">
+      <i c="24" l="1614093520414" />
+    </e>
+    <e n="EditorNextWordInDifferentHumpsModeWithSelection">
+      <i c="28" l="1614093524628" />
+    </e>
+    <e n="EditorNextWordWithSelection">
+      <i c="17" l="1614241228057" />
+    </e>
+    <e n="EditorPageDown">
+      <i c="11" l="1613986839626" />
+    </e>
+    <e n="EditorPageUp">
+      <i c="1" l="1613985963704" />
+    </e>
+    <e n="EditorPaste">
+      <i c="68" l="1614093972874" />
+    </e>
+    <e n="EditorPreviousWord">
+      <i c="209" l="1614093979418" />
+    </e>
+    <e n="EditorPreviousWordInDifferentHumpsMode">
+      <i c="45" l="1613990124576" />
+    </e>
+    <e n="EditorPreviousWordInDifferentHumpsModeWithSelection">
+      <i c="47" l="1614093524854" />
+    </e>
+    <e n="EditorPreviousWordWithSelection">
+      <i c="78" l="1614241227614" />
+    </e>
+    <e n="EditorRight">
+      <i c="152" l="1614152383450" />
+    </e>
+    <e n="EditorRightWithSelection">
+      <i c="14" l="1614093497148" />
+    </e>
+    <e n="EditorTab">
+      <i c="27" l="1614241179700" />
+    </e>
+    <e n="EditorTextStart">
+      <i c="1" l="1614094024973" />
+    </e>
+    <e n="EditorToggleInsertState">
+      <i c="2" l="1614239200348" />
+    </e>
+    <e n="EditorUnindentSelection">
+      <i c="3" l="1614066689887" />
+    </e>
+    <e n="EditorUp">
+      <i c="239" l="1614093490822" />
+    </e>
+    <e n="EditorUpWithSelection">
+      <i c="24" l="1614092934877" />
+    </e>
+    <e n="Find">
+      <i c="10" l="1614096494369" />
+    </e>
+    <e n="FindInPath">
+      <i c="5" l="1614239154668" />
+    </e>
+    <e n="Git.Add">
+      <i c="1" l="1614092147145" />
+    </e>
+    <e n="Git.Fetch">
+      <i c="1" l="1613990697057" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="80" l="1614255071091" />
+    </e>
+    <e n="HideAllWindows">
+      <i c="1" l="1614066539148" />
+    </e>
+    <e n="MoveLineDown">
+      <i c="6" l="1613986742057" />
+    </e>
+    <e n="MoveLineUp">
+      <i c="4" l="1613985548898" />
+    </e>
+    <e n="NewPythonFile">
+      <i c="1" l="1613988628188" />
+    </e>
+    <e n="PasteMultiple">
+      <i c="1" l="1614239212120" />
+    </e>
+    <e n="Register">
+      <i c="1" l="1614152908468" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="8" l="1613988751556" />
+    </e>
+    <e n="ShowPopupMenu">
+      <i c="2" l="1614238890067" />
+    </e>
+    <e n="ShowSettings">
+      <i c="1" l="1613982844343" />
+    </e>
+    <e n="Unwrap">
+      <i c="1" l="1614093408474" />
+    </e>
+    <e n="Vcs.Push">
+      <i c="14" l="1614239059887" />
+    </e>
+    <e n="Vcs.UpdateProject">
+      <i c="13" l="1614236873382" />
+    </e>
+    <e n="VimPluginToggle">
+      <i c="1" l="1614239208333" />
+    </e>
+    <e n="com.intellij.find.SearchReplaceComponent$13">
+      <i c="1" l="1614093301473" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
+      <i c="3" l="1614093899785" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
+      <i c="281" l="1614255127045" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$StatusAction">
+      <i c="1" l="1614081675164" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="3" l="1614066363427" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="2" l="1614152875803" />
+    </e>
+    <e n="com.intellij.openapi.vcs.ex.LocalLineStatusTrackerImpl$LocalLineStatusMarkerRenderer$RollbackLineStatusRangeAction">
+      <i c="1" l="1614093966374" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$6">
+      <i c="4" l="1613988754057" />
+    </e>
+    <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
+      <i c="5" l="1614243496120" />
+    </e>
+    <e n="git4idea.ui.branch.GitBranchPopupActions$CheckoutAsNewBranch">
+      <i c="2" l="1613980337405" />
+    </e>
+    <e n="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$CheckoutAction">
+      <i c="18" l="1614239052976" />
+    </e>
+    <e n="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$RenameBranchAction">
+      <i c="1" l="1614002625949" />
+    </e>
+    <e n="git4idea.ui.branch.GitBranchPopupActions$MergeAction">
+      <i c="3" l="1614239058022" />
+    </e>
+    <e n="git4idea.ui.branch.GitBranchPopupActions$RemoteBranchActions$CheckoutRemoteBranchAction">
+      <i c="3" l="1614092030947" />
+    </e>
+    <e n="git4idea.ui.branch.GitBranchPopupActions$UpdateSelectedBranchAction">
+      <i c="2" l="1614151803445" />
+    </e>
+  </component>
+</application>

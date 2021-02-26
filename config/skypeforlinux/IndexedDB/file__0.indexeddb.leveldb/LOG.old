@@ -1,0 +1,57 @@
+2021/02/22-08:54:58.580 70b Reusing MANIFEST /home/oleg/.config/skypeforlinux/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2021/02/22-08:54:58.580 70b Recovering log #50
+2021/02/22-08:54:58.581 70b Reusing old log /home/oleg/.config/skypeforlinux/IndexedDB/file__0.indexeddb.leveldb/000050.log 
+2021/02/22-17:55:56.917 e24f Level-0 table #55: started
+2021/02/22-17:55:56.930 e24f Level-0 table #55: 1903431 bytes OK
+2021/02/22-17:55:56.934 e24f Delete type=0 #50
+2021/02/22-18:55:53.266 e24f Compacting 1@1 + 1@2 files
+2021/02/22-18:55:53.288 e24f Generated table #56@1: 4006 keys, 1051627 bytes
+2021/02/22-18:55:53.288 e24f Compacted 1@1 + 1@2 files => 1051627 bytes
+2021/02/22-18:55:53.291 e24f compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/02/22-18:55:53.291 e24f Delete type=2 #55
+2021/02/22-18:55:53.291 e24f Delete type=2 #52
+2021/02/23-04:52:47.613 e24f Level-0 table #58: started
+2021/02/23-04:52:47.627 e24f Level-0 table #58: 2102397 bytes OK
+2021/02/23-04:52:47.630 e24f Delete type=0 #54
+2021/02/23-05:48:43.185 e24f Compacting 1@1 + 1@2 files
+2021/02/23-05:48:43.233 e24f Generated table #59@1: 4091 keys, 1140863 bytes
+2021/02/23-05:48:43.233 e24f Compacted 1@1 + 1@2 files => 1140863 bytes
+2021/02/23-05:48:43.236 e24f compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/02/23-05:48:43.236 e24f Delete type=2 #58
+2021/02/23-05:48:43.236 e24f Delete type=2 #56
+2021/02/23-15:52:48.215 e24f Level-0 table #61: started
+2021/02/23-15:52:48.228 e24f Level-0 table #61: 2043211 bytes OK
+2021/02/23-15:52:48.232 e24f Delete type=0 #57
+2021/02/23-16:42:52.119 e24f Compacting 1@1 + 1@2 files
+2021/02/23-16:42:52.141 e24f Generated table #62@1: 4167 keys, 1146364 bytes
+2021/02/23-16:42:52.141 e24f Compacted 1@1 + 1@2 files => 1146364 bytes
+2021/02/23-16:42:52.145 e24f compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/02/23-16:42:52.145 e24f Delete type=2 #61
+2021/02/23-16:42:52.145 e24f Delete type=2 #59
+2021/02/23-22:52:44.294 e24f Level-0 table #64: started
+2021/02/23-22:52:44.307 e24f Level-0 table #64: 1903962 bytes OK
+2021/02/23-22:52:44.312 e24f Delete type=0 #60
+2021/02/23-23:55:57.411 e24f Compacting 1@1 + 1@2 files
+2021/02/23-23:55:57.431 e24f Generated table #65@1: 4349 keys, 1167053 bytes
+2021/02/23-23:55:57.431 e24f Compacted 1@1 + 1@2 files => 1167053 bytes
+2021/02/23-23:55:57.436 e24f compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/02/23-23:55:57.436 e24f Delete type=2 #62
+2021/02/23-23:55:57.436 e24f Delete type=2 #64
+2021/02/24-09:52:42.876 e24f Level-0 table #67: started
+2021/02/24-09:52:42.889 e24f Level-0 table #67: 2039050 bytes OK
+2021/02/24-09:52:42.892 e24f Delete type=0 #63
+2021/02/24-10:55:04.384 e24f Compacting 1@1 + 1@2 files
+2021/02/24-10:55:04.400 e24f Generated table #68@1: 4404 keys, 1171451 bytes
+2021/02/24-10:55:04.400 e24f Compacted 1@1 + 1@2 files => 1171451 bytes
+2021/02/24-10:55:04.404 e24f compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/02/24-10:55:04.404 e24f Delete type=2 #65
+2021/02/24-10:55:04.404 e24f Delete type=2 #67
+2021/02/25-08:58:28.417 e24f Level-0 table #70: started
+2021/02/25-08:58:28.430 e24f Level-0 table #70: 2046078 bytes OK
+2021/02/25-08:58:28.433 e24f Delete type=0 #66
+2021/02/25-08:58:42.922 e24f Compacting 1@1 + 1@2 files
+2021/02/25-08:58:42.974 e24f Generated table #71@1: 4542 keys, 1182225 bytes
+2021/02/25-08:58:42.974 e24f Compacted 1@1 + 1@2 files => 1182225 bytes
+2021/02/25-08:58:42.977 e24f compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/02/25-08:58:42.977 e24f Delete type=2 #70
+2021/02/25-08:58:42.977 e24f Delete type=2 #68
