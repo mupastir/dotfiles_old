@@ -1,0 +1,100 @@
+window:
+  # Blank space added around the window in pixels. This padding is scaled
+  # by DPI and the specified value is always added at both opposing sides.
+  padding:
+    x: 10
+    y: 10
+scrolling:
+  # Specifying '0' will disable scrolling.
+  history: 100000
+  # Number of lines the viewport will move for every line scrolled when
+  # scrollback is enabled (history > 0).
+  multiplier: 3
+font:
+  normal:
+    family: Victor Mono
+    style: Regular
+  bold:
+    family: Victor Mono
+    style: Bold
+  italic:
+    family: Victor Mono
+    style: Italic
+  bold_italic:
+    family: Victor Mono
+    style: Bold Italic
+  size: 10.0
+  use_thin_strokes: true
+# If `true`, bold text is drawn using the bright color variants.
+draw_bold_text_with_bright_colors: true
+# Base16 Default Dark 256 - alacritty color config
+# Colors (Oceanic Next)
+colors:
+  # Default colors
+  primary:
+    background: '0x1b2b34'
+    foreground: '0xd8dee9'
+
+  # Normal colors
+  normal:
+    black:   '0x29414f'
+    red:     '0xec5f67'
+    green:   '0x99c794'
+    yellow:  '0xfac863'
+    blue:    '0x6699cc'
+    magenta: '0xc594c5'
+    cyan:    '0x5fb3b3'
+    white:   '0x65737e'
+
+  # Bright colors
+  bright:
+    black:   '0x405860'
+    red:     '0xec5f67'
+    green:   '0x99c794'
+    yellow:  '0xfac863'
+    blue:    '0x6699cc'
+    magenta: '0xc594c5'
+    cyan:    '0x5fb3b3'
+    white:   '0xadb5c0'
+# Specifying a `duration` of `0` will disable the visual bell.
+bell:
+  animation: EaseOutExpo
+  duration: 300
+  color: '0xffffff'
+background_opacity: 0.99
+selection:
+  # This string contains all characters that are used as separators for
+  # "semantic words" in Alacritty.
+  semantic_escape_chars: ",│`|:\"' ()[]{}<>\t"
+  # When set to `true`, selected text will be copied to the primary clipboard.
+  save_to_clipboard: true
+# Allow terminal applications to change Alacritty’s window title.
+window.dynamic_title: true
+cursor:
+  style: Block
+  unfocused_hollow: true
+# Live config reload (changes require restart)
+live_config_reload: true
+# Tell Alacritty that we’re using fish here
+shell:
+  program: /usr/bin/fish
+  args:
+    - --login
+# Enable clickable URLs
+mouse:
+  url:
+    launcher:
+      program: open
+    modifiers: Command
+# Map the keys (British keyboard layout)
+key_bindings:
+  - { key: Key0, mods: Alt, chars: 'º' }
+  - { key: Key1, mods: Alt, chars: '¡' }
+  - { key: Key2, mods: Alt, chars: '€' }
+  - { key: Key3, mods: Alt, chars: '#' }
+  - { key: Key4, mods: Alt, chars: '¢' }
+  - { key: Key5, mods: Alt, chars: '∞' }
+  - { key: Key6, mods: Alt, chars: '§' }
+  - { key: Key7, mods: Alt, chars: '¶' }
+  - { key: Key8, mods: Alt, chars: '•' }
+  - { key: Key9, mods: Alt, chars: 'ª' }
