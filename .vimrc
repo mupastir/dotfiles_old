@@ -8,9 +8,15 @@ call plug#begin()
 
   Plug 'neoclide/coc.nvim', {'branch': 'release'}
   
-  Plug 'numirias/semshi'
+  Plug 'mhartington/oceanic-next'
 
   Plug 'Vimjas/vim-python-pep8-indent'
+
+  Plug 'majutsushi/tagbar'
+
+  Plug 'pechorin/any-jump.vim'
+
+  Plug 'sainnhe/sonokai'
 
 call plug#end()
 
@@ -29,12 +35,6 @@ let g:ale_linters = {
       \   'ruby': ['standardrb', 'rubocop'],
       \   'javascript': ['eslint'],
       \}
-
-let g:ale_fixers = {
-      \    'python': ['yapf'],
-      \}
-nmap <F10> :ALEFix<CR>
-let g:ale_fix_on_save = 1
 
 function! LinterStatus() abort
   let l:counts = ale#statusline#Count(bufnr(''))
@@ -55,6 +55,24 @@ set statusline+=\ %f
 set statusline+=%=
 set statusline+=\ %{LinterStatus()}
 
-colorscheme monokai
+" Theme
+ syntax enable
+" for vim 7
+ set t_Co=256
+
+" for vim 8
+ if (has("termguicolors"))
+  set termguicolors
+ endif
+
+" The configuration options should be placed before `colorscheme sonokai`.
+let g:sonokai_style = 'maia'
+let g:sonokai_enable_italic = 1
+let g:sonokai_disable_italic_comment = 1
+
+colorscheme sonokai
+let g:airline_theme='sonokai'
 nmap <silent> gd <Plug>(coc-definition)
+map <F3> :NERDTreeToggle<CR>
+map <F8> :TagbarToggle<CR>
 
